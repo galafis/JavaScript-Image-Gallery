@@ -1,0 +1,11 @@
+{
+  "name": "javascript-image-gallery",
+  "version": "1.0.0",
+  "description": "Interactive Image Gallery System",
+  "main": "index.js",
+  "author": "Gabriel Demetrios Lafis",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
