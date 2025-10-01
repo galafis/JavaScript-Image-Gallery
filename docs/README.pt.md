@@ -2,6 +2,8 @@
 
 ![Imagem Hero da Galeria](hero_image.png)
 
+_Nota: A imagem hero é um placeholder. Uma imagem final será gerada e adicionada posteriormente._
+
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/galafis/javascript-image-gallery?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/galafis/javascript-image-gallery?style=for-the-badge)
