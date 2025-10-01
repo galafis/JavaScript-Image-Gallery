@@ -1,5 +1,8 @@
 # JavaScript Image Gallery
 
+![Image Hero of the Gallery](hero_image.png)
+
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/galafis/javascript-image-gallery?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/galafis/javascript-image-gallery?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/galafis/javascript-image-gallery?style=for-the-badge)
