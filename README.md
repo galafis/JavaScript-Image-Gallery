@@ -1,13 +1,15 @@
 # JavaScript-Image-Gallery
 
-**Interactive Image Gallery System**
+Este repositório contém uma galeria de imagens interativa desenvolvida em JavaScript.
 
-Built with Node.js by Gabriel Demetrios Lafis.
+This repository contains an interactive image gallery developed in JavaScript.
 
-## Quick Start
-```bash
-npm install && npm start
-```
+## Documentação / Documentation
 
-## Author
-Gabriel Demetrios Lafis
+Para detalhes completos sobre o projeto, incluindo instalação, uso e contribuição, por favor, consulte a documentação:
+
+For complete project details, including installation, usage, and contribution, please refer to the documentation:
+
+* [Português](docs/README.pt.md)
+* [English](docs/README.en.md)
+

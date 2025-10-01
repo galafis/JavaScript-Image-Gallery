@@ -2,10 +2,15 @@
   "name": "javascript-image-gallery",
   "version": "1.0.0",
   "description": "Interactive Image Gallery System",
-  "main": "index.js",
   "author": "Gabriel Demetrios Lafis",
   "license": "MIT",
-  "dependencies": {
-    "express": "^4.18.2"
+  "scripts": {
+    "start": "live-server --port=8080 --entry-file=index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "jest-environment-jsdom": "^30.2.0",
+    "live-server": "^1.2.2"
   }
 }
